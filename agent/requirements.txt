@@ -1,0 +1,19 @@
+# Bluesky AT Protocol client
+atproto>=0.0.54
+
+# LangChain ecosystem
+langchain>=0.3.0
+langchain-openai>=0.3.0
+langchain-core>=0.3.0
+
+# LLM provider SDK
+openai>=1.50.0
+
+# Web scraping
+requests>=2.32.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+
+# Configuration & utilities
+pyyaml>=6.0.0
+python-dotenv>=1.0.0

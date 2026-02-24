@@ -1,0 +1,62 @@
+[
+  {
+    "id": "tc_001",
+    "url": "https://bsky.app/profile/thecolfax.bsky.social/post/3mfmdqbim5c2m",
+    "expected_output": "• The post pairs a calm suburban spring photo (jacaranda blossoms on a Los Angeles street) with a quote by Alice Walker about power — a contrast between peaceful aesthetics and a political/empowerment message.\n\n• The author references a previous post using Malcolm X that “didn’t do numbers,” implying Bluesky users engaged less with explicitly political Black-radical content than with neutral photography.\n\n• Calling the current photo “mediocre” suggests a deliberate experiment: testing whether engagement depends more on comforting visuals than challenging ideas.\n\n• The remark about people “needing more Malcolm” critiques social media behavior — audiences prefer safe, beautiful content over confronting historical or political themes.\n\n• The location caption (jacarandas in South Hollywood) reinforces the contrast: picturesque everyday life vs uncomfortable social commentary about attention, activism, and online performative engagement.",
+    "added_at": "2026-02-24T21:52:12.824101+00:00"
+  },
+  {
+    "id": "tc_002",
+    "url": "https://bsky.app/profile/naotoshimaeda.bsky.social/post/3mfn4w7tfsk2y",
+    "expected_output": "• The post reacts to allegations connected to documents from investigations around Jeffrey Epstein, where public attention has focused on whether powerful associates were implicated in abuse of minors.\n\n• It targets Donald Trump, reflecting a recurring online political discourse in which new document releases or court filings periodically reignite accusations and partisan debate.\n\n• The “redacted evidence” wording refers to a broader controversy: many records in Epstein-related cases were sealed or partially hidden for years, leading to speculation, interpretation, and misinformation across social media.\n\n• The rhetoric (“actual demon”) signals moral condemnation rather than reporting verified findings — typical of opinion-driven posts during high-emotion political scandals.\n\n• The final line centers the victims, aligning the post with a justice-advocacy framing common in discussions about sexual abuse cases, regardless of political affiliation.",
+    "added_at": "2026-02-24T21:58:31.875070+00:00"
+  },
+  {
+    "id": "tc_003",
+    "url": "https://bsky.app/profile/katiebarnes.bsky.social/post/3mfk5d5miqs2t",
+    "expected_output": "• The post highlights a milestone for the WNBA: in 2025 the league earned enough to activate player revenue-sharing for the first time, distributing about  million to active players.\n\n• It also notes an additional .25 million payout from the players’ union’s group-licensing program (merchandise, video games, trading cards, etc.), showing growing commercial value around the athletes.\n\n• Together, the payouts signal financial growth and stronger bargaining power for players amid ongoing labor negotiations over salaries and revenue splits.",
+    "added_at": "2026-02-24T22:03:04.893573+00:00"
+  },
+  {
+    "id": "tc_004",
+    "url": "https://bsky.app/profile/whatsitlike.me/post/3mfn5u4fo4s2m",
+    "expected_output": "• The post comments on a news report about claims made by Robert F Kennedy Jr that a ketogenic diet could cure schizophrenia; experts say there’s no evidence of a cure, only limited early research suggesting possible symptom improvement.\n\n• The author argues critics online dismissed the idea as totally fabricated, but the article shows it was based on small case reports and hypotheses — meaning the claim had a kernel of research but was exaggerated.\n\n• Scientists cited in the piece emphasize the evidence is extremely weak (e.g., a couple of case studies and ongoing trials), so presenting it as a proven treatment misrepresents the science.\n\n• The final line (“which is worse”) conveys the poster’s point: misinformation built on distorted real science can be more harmful than something completely made up because it sounds credible.",
+    "added_at": "2026-02-24T22:06:31.154843+00:00"
+  },
+  {
+    "id": "tc_005",
+    "url": "https://bsky.app/profile/asmartbear.com/post/3mfmhb5u3qs2v",
+    "expected_output": "• The topic is about the realistic expectations and skill set required for a \"Great Product Manager,\" emphasizing specialization in one or two areas rather than excelling in all aspects of the role. \n\n• This perspective challenges the traditional notion that Product Managers should be adept in every aspect of their job, acknowledging human limitations and promoting a more focused approach.\n\n• The concept is significant as it addresses the often overwhelming expectations placed on Product Managers, suggesting that focusing on a few key strengths can lead to more effective and sustainable performance.\n\n• Shreyas Doshi's insights highlight the importance of balancing quantitative and qualitative inputs, strategic decision-making, and collaboration, which are crucial for a Product Manager to influence company trajectory positively (Source: Wikipedia, https://en.wikipedia.org/wiki/Product_management).\n\n• Understanding these dynamics is essential for companies to set realistic job descriptions and for Product Managers to manage their career growth effectively, aligning with industry best practices.",
+    "added_at": "2026-02-24T22:32:14.556637+00:00"
+  },
+  {
+    "id": "tc_006",
+    "url": "https://bsky.app/profile/krumparrian.bsky.social/post/3mfmibuncws2c",
+    "expected_output": "• The post showcases concept art of an original lizard character, which is a common practice among artists to share and develop unique creations in the digital art community. \n\n• Original characters (OCs) are significant in online art communities as they allow artists to express their creativity and build personal narratives or worlds around these characters.\n\n• Concept art is an essential part of the creative process in entertainment industries such as video games, animation, and film, where it helps visualize ideas and set the tone for the final product (Source: Wikipedia, https://en.wikipedia.org/wiki/Concept_art).",
+    "added_at": "2026-02-24T22:32:23.459643+00:00"
+  },
+  {
+    "id": "tc_007",
+    "url": "https://bsky.app/profile/yayenn.bsky.social/post/3mfmhpgqr522s",
+    "expected_output": "• The post likely describes a pet, possibly a cat or small dog, that initially was active or playful but then decided to rest and cuddle with the owner. This behavior is common among pets who seek both play and comfort from their human companions.\n\n• Pets often exhibit a mix of playful and affectionate behaviors, which can strengthen the bond between the pet and the owner. This dual behavior is significant as it reflects the pet's trust and comfort with the person.\n\n• Understanding pet behavior, such as the transition from playfulness to seeking affection, can enhance the pet-owner relationship and improve the pet's well-being by meeting its emotional needs (Source: Wikipedia, https://en.wikipedia.org/wiki/Pet).",
+    "added_at": "2026-02-24T22:32:31.102868+00:00"
+  },
+  {
+    "id": "tc_008",
+    "url": "https://bsky.app/profile/dshadoff.bsky.social/post/3mfl3pivep22u",
+    "expected_output": "• Claude is an AI language model developed by Anthropic, designed to perform tasks such as text generation and understanding natural language, similar to OpenAI's GPT models (Source: Wikipedia, https://en.wikipedia.org/wiki/Anthropic_(company)).  \n• OpenClaw is likely a reference to a technology or project involving robotics or AI, possibly related to open-source initiatives, though specific details may vary.  \n• The significance of these technologies lies in their potential to revolutionize various industries by automating tasks, improving efficiency, and enabling new capabilities in AI and robotics.  \n• The post highlights a common concern in technology development: the need for predictability and repeatability to ensure reliable and safe deployment in real-world applications.",
+    "added_at": "2026-02-24T22:32:39.020293+00:00"
+  },
+  {
+    "id": "tc_009",
+    "url": "https://bsky.app/profile/maddow.bsky.social/post/3mfmzdunto224",
+    "expected_output": "• TSA PreCheck is a program that allows expedited security screening for travelers at U.S. airports, making it a significant convenience for frequent flyers. Its potential suspension would have impacted many travelers across the country. \n\n• The Department of Homeland Security (DHS) oversees TSA PreCheck, and the recent plans to temporarily suspend the program were initiated by DHS Secretary Kristi L. Noem and her adviser Corey Lewandowski. This decision was later reversed following intervention from the White House, highlighting the importance of executive influence in federal decisions.\n\n• The Global Entry program, which is managed by Customs and Border Protection and provides expedited clearance for pre-approved travelers entering the U.S., remains paused despite the reversal on TSA PreCheck (Source: Wikipedia, https://en.wikipedia.org/wiki/Global_Entry).\n\n• The involvement of high-profile figures like Kristi L. Noem and Corey Lewandowski, as well as the White House's intervention, underscores the political dynamics and decision-making processes within federal agencies like the DHS (Source: Wikipedia, https://en.wikipedia.org/wiki/United_States_Department_of_Homeland_Security).",
+    "added_at": "2026-02-24T22:32:48.537891+00:00"
+  },
+  {
+    "id": "tc_010",
+    "url": "https://bsky.app/profile/weratedogs.com/post/3mfmwtq3qgk2l",
+    "expected_output": "• The post features Milow, an Australian Shepherd, a breed known for its intelligence and energetic nature, which makes them popular as working dogs and family pets (Source: Wikipedia, https://en.wikipedia.org/wiki/Australian_Shepherd).  \n• The unique coloring of Milow, with a mix of brown, tan, and white, is significant as it highlights the breed's characteristic merle coat pattern, which is highly valued and sought after by enthusiasts.  \n• Rating animals with humorous scores, such as \"14/10,\" is a popular trend on social media, often used to express affection and admiration for pets beyond the conventional scale.",
+    "added_at": "2026-02-24T22:33:03.719832+00:00"
+  }
+]
